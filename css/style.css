@@ -26,3 +26,7 @@ section, footer {
     font-family: 'quicksand', sans-serif;
     text-align: justify;
 }
+
+.brand-logo {
+    font-size: 22px !important;
+}
